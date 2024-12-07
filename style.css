@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    padding:100px;
+    background: linear-gradient(#17e8a3, #c025da,#12a7ed );
+
+}
+.top .fs-4{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+
+}
+
+.nav-pills .nav-link {
+    color: black; /* Default link color */
+    font-weight:10px; /* Bold text */
+    border-radius: 50px; /* Rounded links */
+    transition: background-color 0.3s, color 0.3s; /* Smooth hover effects */
+}
+.nav-pills .nav-link:hover {
+    background-color: whitesmoke;
+}
+.text-center {
+    background-color:white; /* Light gray background */
+    padding: 50px 20px; /* Add padding around the section */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+.text-center h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Clean font style */
+    color:black; /* Dark text color */
+    margin-bottom: 20px; /* Space below the heading */
+}
+.text-center p {
+    font-size: 20px; /* Slightly larger font for readability */
+    color:blueviolet; /* Muted text color */
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6; /* Better spacing between lines */
+}
+.d-grid .btn {
+    background-color: mediumslateblue; /* Bootstrap primary color */
+    color:violet; /* White text color */
+    border: none; /* Remove border */
+    font-size: 18px; /* Larger button text */
+    font-weight: bold; /* Bold text */
+    padding: 10px 20px; /* Add padding to buttons */
+    border-radius: 5px; /* Slightly rounded buttons */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+.d-grid .btn:hover {
+    background-color: mediumslateblue; /* Darker blue on hover */
+    color: violet; /* Ensure white text on hover */
+}
+.mid {
+    background-color: navajowhite; /* Light background for the container */
+    padding: 20px; /* Padding around the content */
+    border-radius: 8px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+.list-group-item span {
+    font-weight: 500; 
+    color:indianred;
+}
+.first {
+    background-color:white; /* Light gray background */
+    padding: 50px 20px; /* Add padding around the section */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+p {
+    font-size: 20px; /* Comfortable reading size */
+    line-height: 1.6; /* Better line spacing for readability */
+    color:sienna; /* Mbuted text for the paragraph */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+    background-color:grey; /* Light background */
+    padding: 20px; /* Spacing for better structure */
+    
+}
+footer .nav a {
+    color: black; /* Neutral color for icons */
+}
+
+
+
+
+
+
+
